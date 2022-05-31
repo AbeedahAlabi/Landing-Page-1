@@ -1,0 +1,20 @@
+nav{
+    flex: 1;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin: 100px;
+}
+
+nav ul li{
+    color: white;
+    background: linear-gradient(45deg, #C24098, #00c1ec);
+    font-size: large;
+    border-radius: 5px;
+    padding: 10px 20px;
+    
+}
